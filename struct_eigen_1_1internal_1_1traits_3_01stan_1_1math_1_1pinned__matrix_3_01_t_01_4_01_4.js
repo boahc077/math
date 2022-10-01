@@ -1,0 +1,10 @@
+var struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4 =
+[
+    [ "base", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_a3dd5bcdbae35580e235d64de923e5b7b.html#a3dd5bcdbae35580e235d64de923e5b7b", null ],
+    [ "XprKind", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_a866c7599840e2eeb168219961dc9f8cf.html#a866c7599840e2eeb168219961dc9f8cf", null ],
+    [ "PlainObjectTypeInnerSize", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_ac1f2ac458e3e41e416e9812d010a3c07.html#ac1f2ac458e3e41e416e9812d010a3c07a1e0aed41acac9136d72ad97aa3194bc4", null ],
+    [ "InnerStrideAtCompileTime", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_ac1f2ac458e3e41e416e9812d010a3c07.html#ac1f2ac458e3e41e416e9812d010a3c07ad68062b5d005ff599055cc4ab2d2cdac", null ],
+    [ "OuterStrideAtCompileTime", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_ac1f2ac458e3e41e416e9812d010a3c07.html#ac1f2ac458e3e41e416e9812d010a3c07a76a8a75c2a54f403b587676bb5985533", null ],
+    [ "Alignment", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_ac1f2ac458e3e41e416e9812d010a3c07.html#ac1f2ac458e3e41e416e9812d010a3c07af1b622fa5596506e92518d6bcfbaf8f7", null ],
+    [ "Flags", "struct_eigen_1_1internal_1_1traits_3_01stan_1_1math_1_1pinned__matrix_3_01_t_01_4_01_4_ac1f2ac458e3e41e416e9812d010a3c07.html#ac1f2ac458e3e41e416e9812d010a3c07aefae148e8d6a55d7bf3fd840c06fdbec", null ]
+];
